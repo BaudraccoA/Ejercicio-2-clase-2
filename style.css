@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(127, 240, 255, 0.922);
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #c2f0c3;
+    border-radius: 5px;
+}

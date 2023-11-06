@@ -1,0 +1,35 @@
+<!-- Desarrollar una calculadora que tenga:
+● 2 campos inputs para los operandos
+● 4 botones de operadores básicos (suma, resta, multiplicación, división)
+Al realizar la cuenta se deberá actualizar el campo resultado -->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Calculadora</h1>
+    <hr>
+
+    <input type="number" id="numero1">
+    <input type="number" id="numero2">
+
+    <button onclick="sumar()">Suma</button>
+    <button onclick="restar()">Resta</button>
+    <button onclick="multiplicar()">Multiplicación</button>
+    <button onclick="dividir()">División</button>
+
+    <p>Resultado: <span id="resultado">0</span></p>
+
+    <script src="script.js"></script>
+    
+</body>
+</html>
+
+
