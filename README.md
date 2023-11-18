@@ -23,7 +23,19 @@ Al realizar la cuenta se deberá actualizar el campo resultado
 
 # Portada:
 
+En Proceso:
+
 ![Calculadora](https://github.com/BaudraccoA/Ejercicio-2-clase-2/assets/105230509/5ed3925a-267c-47b9-9ee5-8940ddc8bd7c)
+
+Finalizado:
+
+![Calculadora1](https://github.com/BaudraccoA/Ejercicio-2-clase-2/assets/105230509/c4983ccc-ac12-402e-af3b-712c21b59739)
+
+Responsive:
+
+![Calculadora2](https://github.com/BaudraccoA/Ejercicio-2-clase-2/assets/105230509/f18d7df2-1c6a-4e78-8eab-18bab14aec4c)
+
+
 
 # Acceso al Proyecto:
 
