@@ -1,14 +1,35 @@
-body{
-    background-color: rgba(127, 240, 255, 0.922);
+h1{
+    text-align: center;
 }
 
+body{
+    background-color: rgba(127, 240, 255, 0.922);
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 740px; 
+    margin: 0 auto; 
+}
 input {
-    margin: 5px;
-    padding: 5px;
+    width: 100%;
+    box-sizing: border-box; 
+    margin: 5px 0;
+    padding: 10px;
     border-radius: 5px;
 }
 
 button {
+    width: 20%;
     background-color: #c2f0c3;
     border-radius: 5px;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+/* Media query para pantallas más pequeñas */
+@media (max-width: 600px) {
+    input, button {
+        width: 100%; 
+    }
 }
