@@ -53,6 +53,8 @@ https://clase-2-calculadora.vercel.app/
 * HTML5
 * CSS3
 * JS
+* Netlify
+* Vercel Deploy
 
 <hr>
 
